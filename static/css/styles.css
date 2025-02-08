@@ -1,0 +1,85 @@
+body {
+    font-family: 'Dancing Script', 'Brush Script MT', cursive, bold;
+    margin: 2% 20%;
+}
+
+#file {
+    display: none;
+}
+
+h1 {
+    font-family: 'Dancing Script', 'Brush Script MT', cursive, bold;
+    font-size: 60px;
+}
+
+h3 {
+    font-family: 'Dancing Script', 'Brush Script MT', cursive, bold;
+    font-size: 40px;
+}
+
+.file-button {
+    font-family: 'Dancing Script', 'Brush Script MT', cursive, bold;
+    font-size: 1.5rem;
+    display: flex;
+    height: 50px;
+    width: 30%;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: #FFE4E1;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit-button {
+    font-family: 'Dancing Script', 'Brush Script MT', cursive, bold;
+    font-size: 1.5rem;
+    height: 50px;
+    width: 30%;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    background-color: #FFE4E1;
+}
+
+.color-card {
+    display: flex;
+}
+
+p {
+    font-family: 'Dancing Script', 'Brush Script MT', cursive, bold;
+    font-size: 40px;
+}
+
+.show-color {
+    display: flex;
+    height: 50px;
+    width: 30%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.show-hex-info {
+    display: flex;
+    height: 50px;
+    width: 30%;
+    margin: 0 0 0 50px;
+    padding: 0 0 0 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    font-family: "Times New Roman";
+}
+
+.show-rgb-info {
+    display: flex;
+    height: 50px;
+    width: 30%;
+    margin: 0 0 0 50px;
+    padding: 0 0 0 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    font-family: "Times New Roman";
+}
